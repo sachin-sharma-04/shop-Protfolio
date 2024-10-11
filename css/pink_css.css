@@ -1,0 +1,34 @@
+.title
+		{
+			text-align: center;
+			margin-top: 5%;
+			font-size: 30px;
+			text-transform: capitalize;
+			color: white;
+		}
+		.text_man
+		{
+			width: 80%;
+			height: 28px;
+		}
+		.my_btn
+		{
+			border-style: solid;
+			width: 140px;
+			height: 35px;
+			background-color: orange;
+			border-width: 0px;
+			cursor: pointer;
+			color: white;
+			font-size: 17px;
+			font-weight: bold;
+		}
+		.copy 
+		{
+			text-align: center;
+			margin-top: 2%;
+			 margin-bottom:2%;
+			 color:white; 
+			 font-size: 16px;
+			  font-weight:bold
+		}

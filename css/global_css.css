@@ -1,0 +1,45 @@
+	.main_div
+		{
+			padding: 50px 50px 25px 50px;
+			background-color: aqua;
+			border-top-style:dashed ;
+			border-top-color: white;
+		}
+		.sign
+		{
+			margin-top: 5%;
+			margin-left: 5%;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+			font-size: 20px;
+			text-transform: capitalize;
+		}
+		.head
+		{
+			margin-left: 5%;
+			margin-top: 1%;
+			text-transform: capitalize;
+		}
+		.mar_man
+		{
+
+			margin:  2% 5% 2% 5%;
+			
+		}
+		.t_man 
+		{
+			width: 100%;
+			height: 35px;
+		}
+		.my_btn
+		{
+			border-style: solid;
+			width: 110px;
+			height: 40px;
+			background-color: red;
+			color: white;
+			border-width: 0px;
+			cursor: pointer;
+		}
+		label 
+		{
+			text-transform: uppercase;
+		}
